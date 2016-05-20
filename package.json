@@ -1,0 +1,22 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "Hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gramirezcarrero/node_test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "gramirezcarrero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gramirezcarrero/node_test/issues"
+  },
+  "homepage": "https://github.com/gramirezcarrero/node_test#readme"
+}
